@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LabelPanel.qml</file>
+        <file>TrainPanel.qml</file>
+        <file>UsePanel.qml</file>
+        <file>SidePanel.qml</file>
+        <file>UsePanel1.qml</file>
+        <file>UsePanel2.qml</file>
+        <file>UsePanel3.qml</file>
+        <file>UsePanel4.qml</file>
+        <file>ImageButton.qml</file>
+        <file>ImageButtonBig.qml</file>
+        <file>LabelAddBtn.qml</file>
+        <file>LabeledImgRec.qml</file>
+    </qresource>
+</RCC>

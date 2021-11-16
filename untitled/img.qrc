@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>changebox.png</file>
+        <file>close.png</file>
+        <file>min.png</file>
+        <file>labeling.png</file>
+        <file>training.png</file>
+        <file>use.png</file>
+        <file>camera.png</file>
+        <file>picture.png</file>
+        <file>video.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>label.png</file>
+        <file>add.png</file>
+        <file>ok1.png</file>
+        <file>ok2.png</file>
+        <file>export.png</file>
+        <file>exportOK.png</file>
+        <file>trining.png</file>
+    </qresource>
+</RCC>
